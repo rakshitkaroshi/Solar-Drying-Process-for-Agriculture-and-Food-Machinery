@@ -46,6 +46,9 @@ The project involved understanding, installing, integrating, and testing a solar
 | 9 | Solar Absorber | Absorbs solar radiation and converts it into heat. |
 | 10 | Drying Chamber | Holds agricultural products during drying. |
 
+## Layout Diagram
+<img src="images/Layout-Diagram.png" alt="Layout Diagram" width="350">
+
 ## Working Principle
 
 The system operates using the following process:
